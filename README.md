@@ -26,3 +26,18 @@ android 系统定制(魔改) 视频教程
 * 第一课 Xposed框架编译调试
 * 第二课 
 
+# 视频持续更新.......  
+* 已上传 b站 地址：https://space.bilibili.com/411849899
+# 其它教程
+* study_firewall https://github.com/haidragon/study_firewall
+* study_obscure https://github.com/haidragon/study_obscure
+* study_frida https://github.com/haidragon/study_frida
+* qq交流群 
+* 309262570
+* 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
+* qq：2207344074
+* 如果表示感谢或者支持 可以请作者吃饭
+* ![avatar](https://github.com/haidragon/study_frida/blob/master/image/791577372414_.pic.jpg)
+
+
+* ![avatar](https://github.com/haidragon/study_frida/blob/master/image/761577371002_.pic.jpg)
