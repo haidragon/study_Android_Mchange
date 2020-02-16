@@ -1,7 +1,7 @@
 # study_Android_Mchange
 android 系统定制(魔改) 视频教程
 ## 第一章 android源码编译与刷机
-* 第一课 Pixel刷谷歌官网rom包
+* 第一课 [Pixel刷谷歌官网rom包](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page1/page.md)
 * 第二课 android 4版本源码编译
 * 第三课 Nexus4刷android4.4
 * 第四课 android 8版本源码编译与Pixel刷机
