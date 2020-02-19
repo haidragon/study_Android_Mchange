@@ -1,4 +1,5 @@
 # 第二课 android 4版本源码编译
+# 环境 ubuntu19.10 64位
 
 * 安装jdk6 链接: https://pan.baidu.com/s/1miVKUHq 密码: y26k 添加环境变量(我喜欢临时的,因为有多个）
 ```
