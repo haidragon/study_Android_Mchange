@@ -8,7 +8,7 @@ sudo apt-get install -y lib32ncurses5-dev x11proto-core-dev libx11-dev
 sudo apt-get install -y lib32z-dev libgl1-mesa-dev g++-multilib tofrodos python-markdown 
 sudo apt-get install -y libxml2-utils xsltproc gcc-multilib 
 ```
-* 卸载(或者[共存](https://blog.csdn.net/xrinosvip/article/details/81177873))gcc g++ 安装 [g++4.9、gcc4.9](https://blog.csdn.net/yizhang_ml/article/details/86750405)  [ap  t问题](https://blog.csdn.net/maliao1123/article/details/52881856)
+* 卸载(或者[共存](https://blog.csdn.net/xrinosvip/article/details/81177873))gcc g++ 安装 [g++4.9、gcc4.9](https://blog.csdn.net/yizhang_ml/article/details/86750405)  [apt问题](https://blog.csdn.net/maliao1123/article/details/52881856)
 ```
 sudo apt-get remove g++
 sudo apt-get remove gcc
