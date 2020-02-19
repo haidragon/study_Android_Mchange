@@ -1,6 +1,13 @@
 # 第二课 android 4版本源码编译
 
-* 安装jdk6 链接: https://pan.baidu.com/s/1miVKUHq 密码: y26k
+* 安装jdk6 链接: https://pan.baidu.com/s/1miVKUHq 密码: y26k 添加环境变量(我喜欢临时的,因为有多个）
+```
+export CLASSPATH='/home/haidragon/Desktop/jdk1.6.0_45/lib'
+
+export JAVA_HOME='/home/haidragon/Desktop/jdk1.6.0_45'
+
+export PATH=$PATH:'/home/haidragon/Desktop/jdk1.6.0_45/bin'
+```
 * 安装依赖项
 ```
 sudo apt-get install -y git git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev libc6-dev 
@@ -35,14 +42,7 @@ make
 ....
 //#endif
 ```
-
-export CLASSPATH='/home/haidragon/Desktop/jdk1.6.0_45/lib'
-
-export JAVA_HOME='/home/haidragon/Desktop/jdk1.6.0_45'
-
-export PATH=$PATH:'/home/haidragon/Desktop/jdk1.6.0_45/bin'
-
-准备对应的[官方驱动生成脚本](https://developers.google.com/android/drivers#mako)(因为我们没有编译内核直接用官方编译的),这里下载最后编译的驱动Nexus 4 binaries for Android 4.4.4 (KTU84P)
+准备对应的[官方驱动配置脚本](https://developers.google.com/android/drivers#mako)(因为我们没有编译内核直接用官方编译的),Nexus 4 binaries for Android 4.4.4 (KTU84P)
 
 source build/envsetup.sh
 
