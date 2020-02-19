@@ -111,6 +111,6 @@ Rebooting                                          OKAY [  0.002s]
 Finished. Total time: 30.661s
 haidragon@liuhailongdeMacBook-Pro mei_yun_xing_driver_sh % 
 ```
-![](2.png)
-![](3.png)
-![](4.png)
+![](./images/2.png)
+![](./images/3.png)
+![](./images/4.png)
