@@ -30,7 +30,7 @@ haidragon@ubuntu:~/Desktop/android-8.0.0_r1$
 ```
 source build/envsetup.sh
 ```
-* 运行刚刚那俩个脚本接收协议
+* 运行刚刚那俩个脚本 输入接受
 ![](./images/2.png)
 
 * 选择版本(aosp_marlin-userdebug) lunch 
