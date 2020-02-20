@@ -31,7 +31,8 @@ git config --global user.name "piratemorgen"
 
 同步
 
-repo sync
+~/bin/repo sync -j10
+
 
 
 
