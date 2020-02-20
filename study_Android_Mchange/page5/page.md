@@ -1,5 +1,7 @@
 # android 10版本源码编译与Pixel刷机
 
+## 先下载android 10 源码
+
 * 下载 repo工具
 
 sudo apt-get install git
@@ -33,6 +35,8 @@ git config --global user.name "piratemorgen"
 
 ~/bin/repo sync -j10
 
+
+## 编译源码
 
 
 
