@@ -23,6 +23,7 @@ export REPO_URL='https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
 git config --global user.email "piratemorgen@gmail.com" 
 
 git config --global user.name "piratemorgen"
+
 初始化
 
 ~/bin/repo init -u https://aosp.tuna.tsinghua.edu.cn/platform/manifest
