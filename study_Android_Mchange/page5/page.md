@@ -138,11 +138,11 @@ sudo apt-get install -y lib32z-dev ccache libssl-dev
   114 make update-api -j10
   115 make -j10
 ```
+## 与前面系统不同的地方 （第一次编译最好用一个线程 容易发现问题)
 
-
-
-
-
-
+增加
+```
+make android.test.mock.docs-update-current-api
+```
 
 
