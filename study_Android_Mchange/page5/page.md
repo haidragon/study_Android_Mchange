@@ -47,7 +47,7 @@ git config --global user.name "piratemorgen"
 
 ```
 sudo apt-get install -y libx11-dev:i386 libreadline6-dev:i386 libgl1-mesa-dev g++-multilib
-sudo apt-get install -y git flex bison gperf build-essential libncurses5-dev:i386
+sudo apt-get install -y git flex bison gperf build-essential libncurses5 
 sudo apt-get install -y tofrodos python-markdown libxml2-utils xsltproc zlib1g-dev:i386
 sudo apt-get install -y dpkg-dev libsdl1.2-dev libesd0-dev
 sudo apt-get install -y git-core gnupg flex bison gperf build-essential
