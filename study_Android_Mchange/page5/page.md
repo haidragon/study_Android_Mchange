@@ -143,6 +143,7 @@ sudo apt-get install -y lib32z-dev ccache libssl-dev
 增加
 ```
 make android.test.mock.docs-update-current-api
+make api-stubs-docs-update-current-api
 ```
 
 
