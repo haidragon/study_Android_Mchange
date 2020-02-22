@@ -36,7 +36,7 @@ git config --global user.name "piratemorgen"
 
 ~/bin/repo sync -j10
 
-![images](./1.png)
+![images](./images/1.png)
 ## 编译源码
 
 [7za](https://blog.csdn.net/qq_27608983/article/details/92462659) a -v4g android-10.0.0_r29.7z ~/ 
@@ -145,5 +145,5 @@ sudo apt-get install -y lib32z-dev ccache libssl-dev
 make android.test.mock.docs-update-current-api
 make api-stubs-docs-update-current-api
 ```
-
+![images](./images/2.png)
 
