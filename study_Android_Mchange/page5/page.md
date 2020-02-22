@@ -1,6 +1,6 @@
 # android 10版本源码编译与Pixel刷机
 
-## 先下载android 10 源码
+## [先下载android 10 源码](https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/)
 
 * 下载 repo工具
 
