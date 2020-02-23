@@ -13,9 +13,14 @@ adb push Magisk-v20.3.zip /data/local/tmp
 adb reboot bootloader
 fastboot boot twrp-3.2.3-1-sailfish.img
 ```
+## 由于 版本问题因此只能一个个试
+* 这里成功的案例有
+* 系统 sailfish-opr6.170623.011
+* Magisk版本 Magisk-v19.0.zip
+* MagiskManager-v7.5.1.apk
+* twrp-3.2.1-0-sailfish.img
 
-
-
+![](./images/1.png)
 
 
 
