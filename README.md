@@ -10,7 +10,7 @@ android 系统定制(魔改) 视频教程
 * 第七课 [Pixel替换内核](https://github.com/haidragon/study_Android_Mchange/blob/master/page6/page.md)
 * 第八课 [root教程(第三方root工具)](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page8/page.md))
 ## 第二章 调试篇
-* 第一课 [app程序调试(系统程序与无源码程序)](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page89/page.md)
+* 第一课 [app程序调试(系统程序与无源码程序)](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page9/page.md)
 * 第二课 [so层c++程序调试(系统程序与无源码程序）](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page10/page.md)
 * 第三课 [java服务源码调试](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page11/page.md)
 * 第四课 [如何系统开机调试](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page12/page.md)
