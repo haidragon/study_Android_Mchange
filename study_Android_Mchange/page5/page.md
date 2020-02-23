@@ -151,9 +151,9 @@ make api-stubs-docs-update-current-api
 ```
 export PATH=$PATH:/Users/haidragon/Library/Android/sdk/platform-tools
 adb devices
-adb reboot bootloader
 export ANDROID_PRODUCT_OUT=./
 echo $ANDROID_PRODUCT_OUT
+adb reboot bootloader
 fastboot flashall -w
 ```
 ![images](./images/3.jpg)
