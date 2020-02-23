@@ -20,7 +20,7 @@ fastboot boot twrp-3.2.3-1-sailfish.img
 * MagiskManager-v7.5.1.apk
 * twrp-3.2.1-0-sailfish.img
 
-![](./images/1.png)
+![](./images/1.jpg)
 
 
 
