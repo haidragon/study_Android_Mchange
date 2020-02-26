@@ -18,7 +18,7 @@ android 系统定制(魔改) 视频教程
 ## 第三章 魔改篇(上）
 * 第一课 自定义root工具之su程序编写
 * 第二课 自定义root工具之安全屏障程序编写 
-* 第三课 hello world驱动开发
+* 第三课 [android 驱动开发](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page16/page.md)
 * 第四课 运营商信息获取流程分析
 * 第五课 运营商信息修改
 * 第六课 dex加载流程分析
