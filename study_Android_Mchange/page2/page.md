@@ -51,7 +51,7 @@ lunch
 
 /home/haidragon/Desktop/make-3.82/make -j4
 
-# 刷入(记得双清下)
+# 刷入(记得双清下)  [fashboot 命令](https://blog.csdn.net/s13383754499/article/details/82755012)
 ```
 export PATH=$PATH:/Users/haidragon/Library/Android/sdk/platform-tools
 adb devices
