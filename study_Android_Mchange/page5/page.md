@@ -38,7 +38,7 @@ git config --global user.name "piratemorgen"
 
 ![images](./images/1.png)
 ## 编译源码
-apt install p7zip
+apt install p7zip    7zr x android9.0.7z -r -o./
 
 [7za](https://blog.csdn.net/qq_27608983/article/details/92462659) a -v4g android-10.0.0_r29.7z ~/ 
 
