@@ -3,6 +3,7 @@
 
 * 下载安装[su程序与管理程序](https://magiskmanager.com/)([github](https://github.com/topjohnwu/Magisk/releases))
 * 分开安装
+* 这里是举例操作流程，由于版本问题因此只能一个个试
 ```
 adb install MagiskManager-v7.5.1.apk
 adb push twrp-pixel-installer-sailfish-3.2.3-1.zip /data/local/tmp
@@ -13,8 +14,7 @@ adb push Magisk-v20.3.zip /data/local/tmp
 adb reboot bootloader
 fastboot boot twrp-3.2.3-1-sailfish.img
 ```
-## 由于 版本问题因此只能一个个试
-* 这里成功的案例有
+# 下面这里开始是成功的案例用的android8举例
 * android8.0.0 系统 sailfish-opr6.170623.011
 * Magisk版本 Magisk-v19.0.zip
 * MagiskManager-v7.5.1.apk
