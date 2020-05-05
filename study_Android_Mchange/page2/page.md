@@ -114,3 +114,22 @@ haidragon@liuhailongdeMacBook-Pro mei_yun_xing_driver_sh %
 ![](./images/2.png)
 ![](./images/3.png)
 ![](./images/4.png)
+
+
+```
+adb reboot bootloader
+
+sudo fastboot flash boot boot.img
+sudo fastboot flash cache cache.img
+sudo fastboot flash dt dt.img
+sudo fastboot flash fota fota.img
+sudo fastboot flash persist persist.img
+sudo fastboot flash ramdisk ramdisk.img
+sudo fastboot flash ramdisk-recovery ramdisk-recovery.img
+sudo fastboot flash recovery recovery.img
+sudo fastboot flash splash splash.img
+sudo fastboot flash system system.img
+sudo fastboot flash userdata userdata.img
+
+sudo fastboot reboot
+```
