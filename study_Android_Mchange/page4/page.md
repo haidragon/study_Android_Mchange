@@ -11,6 +11,7 @@ jdk版本 open-jdk8(必须要和官方要求一致)
 * 准备android 8源码
 * 准备对应的[官方驱动配置脚本](https://developers.google.com/android/drivers#sailfish)(因为我们没有编译内核直接用官方编译的),这里下载最后编译的驱动(Pixel binaries for Android 8.0.0 (OPR1.170623.032)
 
+* [查看代号](https://source.android.com/setup/build-numbers#source-code-tags-and-builds)
 ![](./images/1.png)
 
 # 动手
