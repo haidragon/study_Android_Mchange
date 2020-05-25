@@ -30,7 +30,7 @@ git config --global user.name "piratemorgen"
 
 指定版本
 
-~/bin/repo init -u https://aosp.tuna.tsinghua.edu.cn/platform/manifest -b android-10.0.0_r29
+~/bin/repo init -u https://aosp.tuna.tsinghua.edu.cn/platform/manifest -b android-10.0.0_r29   (可能没提示，直接同步就行)
 
 同步
 
