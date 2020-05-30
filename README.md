@@ -25,7 +25,7 @@ android 系统定制(魔改) 视频教程
 * 13.android 9 调试(linker)so链接阶段.mp4
 * 14.android 无源码情况下如何调试java层.mp4
 * 15.android 无源码情况下ida调试so层.mp4
-* 16.内核调试 (https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page13/page.md)
+* 16.android 9内核调试  
 ## 第三章 魔改篇(上）
 * 第一课 [自定义root工具之su程序编写](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page14_1/page.md)
 * 第二课 [自定义root工具之安全屏障程序编写](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md) 
