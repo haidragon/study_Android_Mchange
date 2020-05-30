@@ -10,22 +10,22 @@ android 系统定制(魔改) 视频教程
 * 第七课 [Pixel替换内核](https://github.com/haidragon/study_Android_Mchange/blob/master/page6/page.md)
 * 第八课 [root教程(第三方root工具)](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page8/page.md)
 ## 第二章 调试篇
-1.android 9 源码调试环境搭建.mp4
-2.android 9 调试源码程序java层.mp4
-3.android 9 gdb 调试源码程序app so层.mp4
-4.android 9 多终端联调app java层与so层.mp4
-5.android 9 编写脚本增加gdb 附加方式调试app.mp4
-6.android 9 编写脚本增加gdb 调试模式启动app.mp4
-7.android 9 lldb 利用共享文件方式调试 app.mp4
-8.android 9 调试art 虚拟机启动阶段.mp4
-9.android 9 调试art 虚拟机运行阶段.mp4
-10.android 9 利用frida辅助调试art 运行阶段.mp4
-11.android 9 如何调试系统开机阶段.mp4
-12.android 9 整个系统源码so层编写cmake使用CLion调试.mp4
-13.android 9 调试(linker)so链接阶段.mp4
-14.android 无源码情况下如何调试java层.mp4
-15.android 无源码情况下ida调试so层.mp4
-16.内核调试 (https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page13/page.md)
+* 1.android 9 源码调试环境搭建.mp4
+* 2.android 9 调试源码程序java层.mp4
+* 3.android 9 gdb 调试源码程序app so层.mp4
+* 4.android 9 多终端联调app java层与so层.mp4
+* 5.android 9 编写脚本增加gdb 附加方式调试app.mp4
+* 6.android 9 编写脚本增加gdb 调试模式启动app.mp4
+* 7.android 9 lldb 利用共享文件方式调试 app.mp4
+* 8.android 9 调试art 虚拟机启动阶段.mp4
+* 9.android 9 调试art 虚拟机运行阶段.mp4
+* 10.android 9 利用frida辅助调试art 运行阶段.mp4
+* 11.android 9 如何调试系统开机阶段.mp4
+* 12.android 9 整个系统源码so层编写cmake使用CLion调试.mp4
+* 13.android 9 调试(linker)so链接阶段.mp4
+* 14.android 无源码情况下如何调试java层.mp4
+* 15.android 无源码情况下ida调试so层.mp4
+* 16.内核调试 (https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page13/page.md)
 ## 第三章 魔改篇(上）
 * 第一课 [自定义root工具之su程序编写](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page14_1/page.md)
 * 第二课 [自定义root工具之安全屏障程序编写](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md) 
