@@ -42,11 +42,8 @@ android 系统定制(魔改) 视频教程
 * 第六课 [文件过滤器与网络过滤器相关](https://github.com/haidragon/study_Android_Mchange/blob/master/study_Android_Mchange/page15/page.md)
 # 视频教程
 * [对应视频教程目录](https://github.com/haidragon/haidragon_study)
-* qq交流群 
-* 309262570
 * 有的课题可能没第一时在这写，可以关注我微博 [haidragonx](https://weibo.com/haidragon)同时我也会出其它教程，比如 主动防御(window驱动/linux驱动/mac驱动）、android/ios逆向、流量分析等等 有任何问题。可以联系作者
-* qq：2207344074
+* qq/wechat：2207344074
 # 各种环境
 * https://github.com/haidragon/study_learn_environment
-## 完整资料请加入星球
-![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
+
